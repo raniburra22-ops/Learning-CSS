@@ -1,0 +1,5 @@
+-> 1.Create a div with height and width 200px observe defferent values in the box model by inspecting.
+-> 2.Create a 'button' and give '10px padding' to top and vottom and '15px' on the sides.
+-> 3.add 100px margin to the button on all sides.
+-> 4.Add dotted boder with color red and so much that the button becomes a cirlce. 
+-> 5.Create 'two boxes' with different box size values and observe changes in box model.

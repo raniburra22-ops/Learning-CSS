@@ -1,5 +1,5 @@
 Create a heading and set the text color red.
-Create a div with id #heading, include CSS ans observe priority.
+Create a div with id #heading, include CSS and observe priority.
 Add comment to your CSS class.
 Create a div, paragarph and heading and use id Selector, element selector and selector for them.
 Create two divs with id first and second and define color for both using group selector.
