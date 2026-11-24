@@ -1,0 +1,10 @@
+-> 1. Create a webpage with header, footer, and a content area.
+-- "Header"
+-> 2. Create a nav bar with links.
+-- "Main"
+-> 3. Create a div with width and height, background green and border radius 50%.
+-> 4. Create three divs with container height and width 100px. Display inline block.
+-> 5. Set the correct position property for the single div element to ensure it remains at the right side of the page and does not shift when scrolling.
+-> 6. Use z-index to place the div on top of the div.
+-- "footer"
+-> 7. Add text in footer. 
