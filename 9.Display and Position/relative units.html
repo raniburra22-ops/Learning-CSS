@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relative Units Percentage</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            font-size: 5px;
+        }
+        #first{
+            /* height: 50vd;
+            width: 50vw; */
+            height: 100px;
+            width: 200px;
+            font-size: 1.5em; /*relative units (em)/(REM)*/
+            background-color: brown;
+        }
+        #second{
+            height: 60%; /*ralative units percentage  */
+            width: 50%;
+            font-size: o.5rem;
+            background-color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <div id="first">
+        First div
+        <div id="second">
+            Second div
+        </div>
+    </div>
+</body>
+</html>
